@@ -1,0 +1,5 @@
+# Project exclude paths
+/animalCat/target/
+/animalDog/target/
+/baseAnimal/target/
+/zoo/target/
